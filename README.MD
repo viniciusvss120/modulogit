@@ -6,5 +6,3 @@ Qualquer coisa.
 Outra linha.
 
 Nosso sistema esta no git
-
-mais alterações
